@@ -12,3 +12,7 @@ Data yang digunakan adalah dataset berbahasa indonesia (dataset
 SINGGALANG)
 
 [SINGGALANG.csv](https://github.com/devitayolanda/Indonesian-Named-Entity-Recognition/files/7561381/SINGGALANG.csv)
+
+C. 
+D.
+E. Metode : Bi-lstm
