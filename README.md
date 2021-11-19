@@ -18,4 +18,5 @@ C. Evaluasi : Confussion Matrix <br>
 D.Preprocessing : Word2Vec <br>
 
 E. Metode : Bi-lstm <br>
+
 F. Feature ekstraksi : Neural Network
