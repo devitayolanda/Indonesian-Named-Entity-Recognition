@@ -13,7 +13,7 @@ SINGGALANG)
 
 [SINGGALANG.csv](https://github.com/devitayolanda/Indonesian-Named-Entity-Recognition/files/7561381/SINGGALANG.csv)
 
-C. Evaluasi : Confussion Matrix
-D.Preprocessing : Word2Vec
-E. Metode : Bi-lstm
+C. Evaluasi : Confussion Matrix <br>
+D.Preprocessing : Word2Vec <br>
+E. Metode : Bi-lstm <br>
 F. Feature ekstraksi : Neural Network
