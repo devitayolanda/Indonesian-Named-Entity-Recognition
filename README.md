@@ -27,5 +27,5 @@ Confusion matrix sering disebut sebagai error matrix. Dimana, pada dasarnya conf
 Bidirectional LSTM, atau biLSTM, adalah model pemrosesan urutan yang terdiri dari dua LSTM: satu mengambil input dalam arah maju, dan yang lainnya dalam arah mundur. 
 BiLSTM secara efektif meningkatkan jumlah informasi yang tersedia untuk jaringan, meningkatkan konteks yang tersedia untuk algoritme (misalnya, mengetahui kata apa yang segera mengikuti dan mendahului kata dalam kalimat).
 
-**F. Feature ekstraksi : Neural Network**
-Feature Ekstraksi adalah proses pengambilan ciri objek yang dapat menggambarkan atau menjelasakan karakteristik mengenai objek tersebut. Pada Feature Extraksi data yang ada akan menjadi relevan dan terstruktur. Feature extraksi mengurangi resource untuk menggambarkan kumpulan data yang besar. 
+**F. Feature ekstraksi : Neural Network <br>**
+Feature Ekstraksi adalah proses pengambilan ciri objek yang dapat menggambarkan atau menjelasakan karakteristik mengenai objek tersebut. Pada Feature Extraksi data yang ada akan menjadi relevan dan terstruktur. Feature extraksi mengurangi resource untuk menggambarkan kumpulan data yang besar. Neural Network merupakan suatu algoritma dalam MAchine Learning yang memiliki kemampuan untuk meyaring sejumlah informasi yang besar dari berbagai bentuk data, mengekstraksi fitur dan juga memiliki kemampuan pengklasifikasian yang kuat.
