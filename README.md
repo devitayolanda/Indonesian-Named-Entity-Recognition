@@ -31,6 +31,6 @@ diklasifikasi menggunakan CRF.
 Dalam metode pembelajaran
 mesin terdapat metode yang terbukti mendapatkan
 pencapaian performa paling tinggi(state-of-the-art)
-dalam kasus NER [3], yaitu Bidirectional LSTMCRF
+dalam kasus NER, yaitu Bidirectional LSTMCRF
 
 **F. Feature ekstraksi : Neural Network**
