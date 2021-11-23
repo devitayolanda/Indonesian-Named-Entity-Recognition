@@ -23,5 +23,14 @@ SINGGALANG)
 **D.Preprocessing : Word2Vec <br>**
 
 **E. Metode : Bi-lstm <br>**
+Bidirectional LSTM menggabungkan
+konteks sebelumnya dan konteks setelahnya dengan
+memproses data dari dua arah yang selanjutnya
+diklasifikasi menggunakan CRF.
+
+Dalam metode pembelajaran
+mesin terdapat metode yang terbukti mendapatkan
+pencapaian performa paling tinggi(state-of-the-art)
+dalam kasus NER [3], yaitu Bidirectional LSTMCRF
 
 **F. Feature ekstraksi : Neural Network**
