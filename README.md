@@ -19,6 +19,7 @@ SINGGALANG)
 [SINGGALANG.csv](https://github.com/devitayolanda/Indonesian-Named-Entity-Recognition/files/7561381/SINGGALANG.csv)
 
 **C. Evaluasi : Confussion Matrix <br>**
+Confusion matrix sering disebut sebagai error matrix. Dimana, pada dasarnya confusion matrix akan memberikan informasi dari perbandingan hasil klasifikasi yang dilakukan oleh sistem (model) dengan hasil klasifikasi sebenarnya.
 
 **D.Preprocessing : Word2Vec <br>**
 
