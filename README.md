@@ -24,14 +24,7 @@ Confusion matrix sering disebut sebagai error matrix. Dimana, pada dasarnya conf
 **D.Preprocessing : Word2Vec <br>**
 
 **E. Metode : Bi-lstm <br>**
-Bidirectional LSTM menggabungkan
-konteks sebelumnya dan konteks setelahnya dengan
-memproses data dari dua arah yang selanjutnya
-diklasifikasi menggunakan CRF.
-
-Dalam metode pembelajaran
-mesin terdapat metode yang terbukti mendapatkan
-pencapaian performa paling tinggi(state-of-the-art)
-dalam kasus NER, yaitu Bidirectional LSTMCRF
+Bidirectional LSTM, atau biLSTM, adalah model pemrosesan urutan yang terdiri dari dua LSTM: satu mengambil input dalam arah maju, dan yang lainnya dalam arah mundur. 
+BiLSTM secara efektif meningkatkan jumlah informasi yang tersedia untuk jaringan, meningkatkan konteks yang tersedia untuk algoritme (misalnya, mengetahui kata apa yang segera mengikuti dan mendahului kata dalam kalimat).
 
 **F. Feature ekstraksi : Neural Network**
