@@ -37,6 +37,6 @@ Berdasarkan latar belakang masalah maka dapat diperoleh rumusan masalah, yaitu b
 Untuk membangun model Named Entity Recognition (NER) pada dataset
 bahasa indonesia menggunakan neural network.
 
-** Ruang Lingkup >br>**
+**Ruang Lingkup <br>**
 1. Data yang digunakan adalah dataset berbahasa indonesia (dataset
 SINGGALANG)
