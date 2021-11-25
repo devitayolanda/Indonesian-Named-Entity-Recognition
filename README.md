@@ -31,3 +31,8 @@ Feature Ekstraksi adalah proses pengambilan ciri objek yang dapat menggambarkan 
 
 **G. Rumusan Masalah <br>**
 Berdasarkan latar belakang masalah maka dapat diperoleh rumusan masalah, yaitu bagaimana membangun model Named Entity Recognition (NER) dengan menggunakan Neural Network.
+
+
+** Tujuan<br>**
+Untuk membangun model Named Entity Recognition (NER) pada dataset
+bahasa indonesia menggunakan neural network.
