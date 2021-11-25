@@ -28,3 +28,6 @@ BiLSTM secara efektif meningkatkan jumlah informasi yang tersedia untuk jaringan
 
 **F. Feature ekstraksi : Neural Network <br>**
 Feature Ekstraksi adalah proses pengambilan ciri objek yang dapat menggambarkan atau menjelasakan karakteristik mengenai objek tersebut. Pada Feature Extraksi data yang ada akan menjadi relevan dan terstruktur. Feature extraksi mengurangi resource untuk menggambarkan kumpulan data yang besar. Neural Network merupakan suatu algoritma dalam MAchine Learning yang memiliki kemampuan untuk meyaring sejumlah informasi yang besar dari berbagai bentuk data, mengekstraksi fitur dan juga memiliki kemampuan pengklasifikasian yang kuat.
+
+**G. Rumusan Masalah <br>**
+Berdasarkan latar belakang masalah maka dapat diperoleh rumusan masalah, yaitu bagaimana membangun model Named Entity Recognition (NER) dengan menggunakan Neural Network.
