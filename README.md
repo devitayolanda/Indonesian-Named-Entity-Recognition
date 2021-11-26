@@ -21,7 +21,9 @@ SINGGALANG)
 Confusion matrix sering disebut sebagai error matrix. Dimana, pada dasarnya confusion matrix akan memberikan informasi dari perbandingan hasil klasifikasi yang dilakukan oleh sistem (model) dengan hasil klasifikasi sebenarnya. Confussion matrix digunakan agar dapat memberi tahu seberapa baik model yang telah dibuat.
 
 **D.Preprocessing : Word2Vec <br>**
+Word embeddings adalah proses konversi kata yang berupa karakter alphanumeric kedalam bentuk vector. Setiap kata adalah vector yang merepresentasikan sebuah titik pada space dengan dimensi tertentu. Dengan word embedding, kata-kata yang memiliki properti tertentu, misalnya berada pada konteks yang sama, atau memiliki semantic meaning yang sama berada tidak jauh satu sama lain pada space tersebut.
 
+Word2vec merupakan model shallow neural network yang merubah representasi kata yang merupakan kombinasi dari karakter alphanumeric menjadi vector. Representasi vector tersebut memiliki properti relationship terhadap kata-kata yang berkaitan melalui proses training.
 
 **E. Metode : Bi-lstm <br>**
 Bidirectional LSTM, atau biLSTM, adalah model pemrosesan urutan yang terdiri dari dua LSTM: satu mengambil input dalam arah maju, dan yang lainnya dalam arah mundur. 
