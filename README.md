@@ -44,3 +44,4 @@ bahasa indonesia menggunakan neural network.
 1. Data yang digunakan adalah dataset berbahasa indonesia (dataset
 SINGGALANG)
 2. Algoritma yang digunakan adalah neural network
+3. Menggunakan bahasa pemograman python
